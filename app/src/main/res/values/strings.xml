@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CompLearn</string>
+    <string name="Login">Login</string>
+    <string name="un">Username</string>
+    <string name="pw">Password</string>
+    <string name="courses">Courses</string>
+    <string name="menu">menu</string>
+    <string name="logout">Logout</string>
+    <string name="about">About</string>
+    <string name="home">Home</string>
+    <string name="library">Library</string>
+</resources>
